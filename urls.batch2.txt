@@ -1,0 +1,8 @@
+# Batch 2 - additional images for dataset version 2
+# Run: python run_pipeline.py --url-file urls.batch2.txt --append
+https://picsum.photos/id/110/800/600
+https://picsum.photos/id/120/800/600
+https://picsum.photos/id/130/800/600
+https://picsum.photos/id/140/800/600
+https://picsum.photos/id/150/800/600
+https://picsum.photos/id/160/800/600

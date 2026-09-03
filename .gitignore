@@ -1,0 +1,16 @@
+# Scraped data - versioned in ClearML, not git
+raw_data/
+
+# ClearML local cache
+.clearml/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Credentials - NEVER commit these
+clearml.conf
+.env

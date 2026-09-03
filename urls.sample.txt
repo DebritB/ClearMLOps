@@ -1,0 +1,6 @@
+# One image URL per line. Lines starting with '#' and blank lines are ignored.
+# Use with:  python run_pipeline.py --url-file urls.sample.txt
+https://picsum.photos/id/100/1024/768
+https://picsum.photos/id/101/1024/768
+https://picsum.photos/id/102/1024/768
+https://picsum.photos/id/103/1024/768

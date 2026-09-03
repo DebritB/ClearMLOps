@@ -1,0 +1,10 @@
+# Core pipeline dependencies
+clearml>=1.16.0          # Dataset versioning & upload
+requests>=2.31.0         # HTTP client for downloading images
+beautifulsoup4>=4.12.0   # HTML parsing for page-based scraping
+lxml>=5.2.0              # Fast parser backend for BeautifulSoup
+truststore>=0.9.0        # Verify TLS against the OS cert store (AV/proxy HTTPS inspection)
+
+# Standard library modules used (no install needed):
+#   argparse, dataclasses, datetime, hashlib, logging, mimetypes,
+#   pathlib, urllib.parse
